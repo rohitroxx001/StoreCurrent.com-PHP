@@ -19,9 +19,9 @@ Currently the Url is Down :(
 
 -> Data will be fetched from different shopping websites like amazon ,flipkart,snapdeal etc;
 
--> Comparison of data from different websites;
+-> Comparison of data wil be done from different websites;
 
--> Providing buying and user profile to customers;
+-> Providing buying facility and user profile to customers;
 
 -> Customers Data will be analysed using Big Data Hadop;
 
