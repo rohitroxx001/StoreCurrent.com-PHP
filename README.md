@@ -1,25 +1,25 @@
 
-                                                    Rohitroxx001  
-                                     Don't let Distractions distract you. Just Do It
+                                                     Rohitroxx001  
+                                      Don't let Distractions distract you. Just Do It
                               • Eat More • Don't Sleep • Work hard • While(!(succeed=try( ) ) ) ;
   
 
 # Phase 1 - Started as a Startup in 2016. (Http://storecurrent.com) 
 
-Currently the Url is Downp;
+Currently the Url is Down; :(
  
 -> Shopping affiliation Website developed using the technologies of PHP,
 Java, Sql, HTML/Css;
 
 -> Reched upto 1000 Different Users and having affiliation from Amazon,
-Flipkart, Paytm , Snapdeal. http://storecurrent.com;
+ Flipkart, Paytm , Snapdeal.
 
 -> Database and all files are uploaded;
 
 
-# Phase 2 - working on it as a final year project (Coming Soon)
+# Phase 2 - Working on it as a Final Year Project (Coming Soon) :)
 
--> Data will be fetch from different shopping websites like amazon ,flipkart,snapdeal etc;
+-> Data will be fetched from different shopping websites like amazon ,flipkart,snapdeal etc;
 
 -> Comparison of data from different websites;
 
