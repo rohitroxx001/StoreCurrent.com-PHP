@@ -6,18 +6,16 @@
 
 # Phase 1 - Started as a Startup in 2016. (Http://storecurrent.com) 
 
-Currently the Url is Down; :(
+Currently the Url is Down :(
  
--> Shopping affiliation Website developed using the technologies of PHP,
-Java, Sql, HTML/Css;
+-> Shopping affiliation Website developed using PHP, Java, Sql, HTML/Css;
 
--> Reched upto 1000 Different Users and having affiliation from Amazon,
- Flipkart, Paytm , Snapdeal.
+-> Reched upto 1000 Different Users and having affiliation from Amazon, Flipkart, Paytm , Snapdeal.
 
 -> Database and all files are uploaded;
 
 
-# Phase 2 - Working on it as a Final Year Project (Coming Soon) :)
+# Phase 2 - Working on it as a Final Year Project (Coming Soon) :)  
 
 -> Data will be fetched from different shopping websites like amazon ,flipkart,snapdeal etc;
 
