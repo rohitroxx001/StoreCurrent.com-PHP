@@ -25,7 +25,12 @@ Currently the Url is Down :(
 
 -> Customers Data will be analysed using Big Data Hadop;
 
--> Additional Languages Hadoop,Nodejs.
+-> Much more.......(STARTUP)
+
+-> Languages used - • Javascript 
+                    • NodeJs
+                    • AngularJs
+                    • Enjoy.
 
 
 
